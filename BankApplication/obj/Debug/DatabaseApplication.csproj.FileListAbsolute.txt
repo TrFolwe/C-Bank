@@ -1,0 +1,33 @@
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.exe.config
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.exe
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.pdb
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\Google.Protobuf.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\MySql.Data.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\System.Buffers.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\System.Memory.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\ZstdNet.dll
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\Google.Protobuf.pdb
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\Google.Protobuf.xml
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\K4os.Compression.LZ4.xml
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\K4os.Hash.xxHash.xml
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\MySql.Data.xml
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\System.Buffers.xml
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\System.Memory.xml
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csprojResolveAssemblyReference.cache
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.Properties.Resources.resources
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csproj.GenerateResource.Cache
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.exe
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.pdb
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.BankMainForm.resources
+c:\users\gtm\documents\visual studio 2015\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.BankAccountForm.resources
+G:\Semih_Projects\BankApplication\DatabaseApplication\bin\Debug\DatabaseApplication.exe.config
+G:\Semih_Projects\BankApplication\DatabaseApplication\obj\Debug\DatabaseApplication.exe
+G:\Semih_Projects\BankApplication\DatabaseApplication\obj\Debug\DatabaseApplication.pdb
